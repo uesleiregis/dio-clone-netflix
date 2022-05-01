@@ -11,7 +11,22 @@
 
 </head>
 
-<!-- header, footer, aside -->
+<!-- header, footer, aside
+
+
+- resumo git
+git clone [local]
+
+git add . 
+git status
+git commit -m "mensagem"
+git push origin main
+
+----
+em caso de conflito
+git pull origin master
+
+ -->
 
 <body>
     <header>
